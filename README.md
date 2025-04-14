@@ -24,3 +24,19 @@ Este proyecto fue desarrollado como parte de una actividad en el curso de Robót
 
 ## 🧩 Arquitectura del Sistema
 
+```plaintext
+CoppeliaSim (Pioneer P3DX + VisionSensor)
+        │
+        ▼
+node_camera_publisher         → Publica imágenes ROS 2
+        │
+        ▼
+node_visual_servoing_controller → Procesa imagen y genera comandos Twist
+        │
+        ▼
+node_robot_controller         → Controla el robot vía /cmd_vel
+        ▲
+        │
+node_move_sphere              → Mueve la esfera con trayectoria senoidal
+
+
