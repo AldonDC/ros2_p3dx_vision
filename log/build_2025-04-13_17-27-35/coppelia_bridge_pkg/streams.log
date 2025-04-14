@@ -1,0 +1,21 @@
+[0.822s] Invoking command in '/home/alfonso/coppelia_vision_act13_ws/src/coppelia_bridge_pkg': PYTHONPATH=/home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_act13_ws/install/coppelia_bridge_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/coppelia_bridge_pkg build --build-base /home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/build install --record /home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/install.log --single-version-externally-managed install_data
+[0.990s] running egg_info
+[0.990s] writing ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/PKG-INFO
+[0.990s] writing dependency_links to ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/dependency_links.txt
+[0.990s] writing entry points to ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/entry_points.txt
+[0.990s] writing requirements to ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/requires.txt
+[0.990s] writing top-level names to ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/top_level.txt
+[0.991s] reading manifest file '../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/SOURCES.txt'
+[0.992s] writing manifest file '../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/SOURCES.txt'
+[0.992s] running build
+[0.992s] running build_py
+[0.992s] running install
+[0.992s] running install_lib
+[0.993s] running install_data
+[0.993s] running install_egg_info
+[0.995s] removing '/home/alfonso/coppelia_vision_act13_ws/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.995s] Copying ../../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info to /home/alfonso/coppelia_vision_act13_ws/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg-0.0.0-py3.10.egg-info
+[0.995s] running install_scripts
+[1.009s] Installing image_streamer script to /home/alfonso/coppelia_vision_act13_ws/install/coppelia_bridge_pkg/lib/coppelia_bridge_pkg
+[1.010s] writing list of installed files to '/home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/install.log'
+[1.031s] Invoked command in '/home/alfonso/coppelia_vision_act13_ws/src/coppelia_bridge_pkg' returned '0': PYTHONPATH=/home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_act13_ws/install/coppelia_bridge_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/coppelia_bridge_pkg build --build-base /home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/build install --record /home/alfonso/coppelia_vision_act13_ws/build/coppelia_bridge_pkg/install.log --single-version-externally-managed install_data

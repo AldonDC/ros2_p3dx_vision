@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/PKG-INFO
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/dependency_links.txt
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/entry_points.txt
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/requires.txt
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/top_level.txt
+../../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/zip-safe
+camera_streamer_pkg/__init__.py
+camera_streamer_pkg/node_camera_publisher.py
+launch/coppelia_vision_launch.py
+resource/camera_streamer_pkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

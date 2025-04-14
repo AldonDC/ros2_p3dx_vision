@@ -1,0 +1,34 @@
+[0.846s] Invoking command in '/home/alfonso/coppelia_vision_control_ws/src/camera_streamer_pkg': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camera_streamer_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/install.log --single-version-externally-managed install_data
+[1.048s] running egg_info
+[1.048s] creating ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info
+[1.049s] writing ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/PKG-INFO
+[1.049s] writing dependency_links to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/dependency_links.txt
+[1.049s] writing entry points to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/entry_points.txt
+[1.049s] writing requirements to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/requires.txt
+[1.049s] writing top-level names to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/top_level.txt
+[1.049s] writing manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+[1.051s] reading manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+[1.051s] writing manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+[1.051s] running build
+[1.052s] running build_py
+[1.052s] creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build
+[1.052s] creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib
+[1.052s] creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg
+[1.052s] copying camera_streamer_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg
+[1.052s] running install
+[1.052s] running install_lib
+[1.053s] creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg
+[1.053s] copying /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg
+[1.053s] byte-compiling /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg/__init__.py to __init__.cpython-310.pyc
+[1.053s] running install_data
+[1.053s] creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index
+[1.054s] creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index
+[1.054s] creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index/packages
+[1.054s] copying resource/camera_streamer_pkg -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index/packages
+[1.054s] copying package.xml -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/camera_streamer_pkg
+[1.054s] running install_egg_info
+[1.055s] Copying ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info to /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg-0.0.0-py3.10.egg-info
+[1.055s] running install_scripts
+[1.073s] Installing node_camera_publisher script to /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/camera_streamer_pkg
+[1.073s] writing list of installed files to '/home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/install.log'
+[1.096s] Invoked command in '/home/alfonso/coppelia_vision_control_ws/src/camera_streamer_pkg' returned '0': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camera_streamer_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/install.log --single-version-externally-managed install_data

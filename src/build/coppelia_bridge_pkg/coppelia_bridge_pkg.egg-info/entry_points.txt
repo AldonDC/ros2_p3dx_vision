@@ -1,0 +1,3 @@
+[console_scripts]
+image_streamer = coppelia_bridge_pkg.image_streamer:main
+

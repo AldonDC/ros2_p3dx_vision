@@ -1,0 +1,34 @@
+[0.844s] Invoking command in '/home/alfonso/coppelia_vision_control_ws/src/coppelia_bridge_pkg': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/coppelia_bridge_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/install.log --single-version-externally-managed install_data
+[1.050s] running egg_info
+[1.051s] creating ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info
+[1.051s] writing ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/PKG-INFO
+[1.051s] writing dependency_links to ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/dependency_links.txt
+[1.052s] writing entry points to ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/entry_points.txt
+[1.052s] writing requirements to ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/requires.txt
+[1.052s] writing top-level names to ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/top_level.txt
+[1.052s] writing manifest file '../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/SOURCES.txt'
+[1.053s] reading manifest file '../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/SOURCES.txt'
+[1.053s] writing manifest file '../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info/SOURCES.txt'
+[1.054s] running build
+[1.054s] running build_py
+[1.054s] creating /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build
+[1.054s] creating /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build/lib
+[1.054s] creating /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build/lib/coppelia_bridge_pkg
+[1.054s] copying coppelia_bridge_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build/lib/coppelia_bridge_pkg
+[1.054s] running install
+[1.055s] running install_lib
+[1.055s] creating /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg
+[1.056s] copying /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build/lib/coppelia_bridge_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg
+[1.056s] byte-compiling /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg/__init__.py to __init__.cpython-310.pyc
+[1.056s] running install_data
+[1.056s] creating /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/share/ament_index
+[1.056s] creating /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/share/ament_index/resource_index
+[1.056s] creating /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/share/ament_index/resource_index/packages
+[1.056s] copying resource/coppelia_bridge_pkg -> /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/share/ament_index/resource_index/packages
+[1.056s] copying package.xml -> /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/share/coppelia_bridge_pkg
+[1.056s] running install_egg_info
+[1.057s] Copying ../build/coppelia_bridge_pkg/coppelia_bridge_pkg.egg-info to /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages/coppelia_bridge_pkg-0.0.0-py3.10.egg-info
+[1.058s] running install_scripts
+[1.076s] Installing image_streamer script to /home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/coppelia_bridge_pkg
+[1.076s] writing list of installed files to '/home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/install.log'
+[1.108s] Invoked command in '/home/alfonso/coppelia_vision_control_ws/src/coppelia_bridge_pkg' returned '0': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/coppelia_bridge_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/coppelia_bridge_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/coppelia_bridge_pkg/install.log --single-version-externally-managed install_data

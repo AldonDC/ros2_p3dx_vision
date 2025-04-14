@@ -1,0 +1,27 @@
+[0.826s] Invoking command in '/home/alfonso/coppelia_vision_act13_ws/src/robot_controller_pkg': PYTHONPATH=/home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_controller_pkg build --build-base /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/build install --record /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/install.log --single-version-externally-managed install_data
+[1.020s] running egg_info
+[1.020s] writing ../../build/robot_controller_pkg/robot_controller_pkg.egg-info/PKG-INFO
+[1.020s] writing dependency_links to ../../build/robot_controller_pkg/robot_controller_pkg.egg-info/dependency_links.txt
+[1.020s] writing entry points to ../../build/robot_controller_pkg/robot_controller_pkg.egg-info/entry_points.txt
+[1.020s] writing requirements to ../../build/robot_controller_pkg/robot_controller_pkg.egg-info/requires.txt
+[1.020s] writing top-level names to ../../build/robot_controller_pkg/robot_controller_pkg.egg-info/top_level.txt
+[1.021s] reading manifest file '../../build/robot_controller_pkg/robot_controller_pkg.egg-info/SOURCES.txt'
+[1.022s] writing manifest file '../../build/robot_controller_pkg/robot_controller_pkg.egg-info/SOURCES.txt'
+[1.022s] running build
+[1.022s] running build_py
+[1.022s] copying robot_controller_pkg/move_sphere_node.py -> /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/build/lib/robot_controller_pkg
+[1.023s] running install
+[1.023s] running install_lib
+[1.023s] copying /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/build/lib/robot_controller_pkg/move_sphere_node.py -> /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg
+[1.024s] byte-compiling /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg/move_sphere_node.py to move_sphere_node.cpython-310.pyc
+[1.024s] running install_data
+[1.024s] running install_egg_info
+[1.026s] removing '/home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.027s] Copying ../../build/robot_controller_pkg/robot_controller_pkg.egg-info to /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg-0.0.0-py3.10.egg-info
+[1.027s] running install_scripts
+[1.041s] Installing node_move_sphere script to /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/robot_controller_pkg
+[1.042s] Installing node_robot_controller script to /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/robot_controller_pkg
+[1.042s] Installing node_trajectory_controller script to /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/robot_controller_pkg
+[1.042s] Installing node_visual_servoing_controller script to /home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/robot_controller_pkg
+[1.042s] writing list of installed files to '/home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/install.log'
+[1.063s] Invoked command in '/home/alfonso/coppelia_vision_act13_ws/src/robot_controller_pkg' returned '0': PYTHONPATH=/home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_act13_ws/install/robot_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_controller_pkg build --build-base /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/build install --record /home/alfonso/coppelia_vision_act13_ws/build/robot_controller_pkg/install.log --single-version-externally-managed install_data

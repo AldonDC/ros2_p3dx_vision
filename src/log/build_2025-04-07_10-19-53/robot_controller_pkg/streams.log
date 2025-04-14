@@ -1,0 +1,21 @@
+[0.899s] Invoking command in '/home/alfonso/coppelia_vision_control_ws/src/robot_controller_pkg': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/robot_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robot_controller_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/install.log --single-version-externally-managed install_data
+[1.099s] running egg_info
+[1.099s] writing ../build/robot_controller_pkg/robot_controller_pkg.egg-info/PKG-INFO
+[1.099s] writing dependency_links to ../build/robot_controller_pkg/robot_controller_pkg.egg-info/dependency_links.txt
+[1.100s] writing entry points to ../build/robot_controller_pkg/robot_controller_pkg.egg-info/entry_points.txt
+[1.100s] writing requirements to ../build/robot_controller_pkg/robot_controller_pkg.egg-info/requires.txt
+[1.100s] writing top-level names to ../build/robot_controller_pkg/robot_controller_pkg.egg-info/top_level.txt
+[1.101s] reading manifest file '../build/robot_controller_pkg/robot_controller_pkg.egg-info/SOURCES.txt'
+[1.102s] writing manifest file '../build/robot_controller_pkg/robot_controller_pkg.egg-info/SOURCES.txt'
+[1.102s] running build
+[1.103s] running build_py
+[1.103s] running install
+[1.103s] running install_lib
+[1.104s] running install_data
+[1.104s] running install_egg_info
+[1.107s] removing '/home/alfonso/coppelia_vision_control_ws/src/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.107s] Copying ../build/robot_controller_pkg/robot_controller_pkg.egg-info to /home/alfonso/coppelia_vision_control_ws/src/install/robot_controller_pkg/lib/python3.10/site-packages/robot_controller_pkg-0.0.0-py3.10.egg-info
+[1.108s] running install_scripts
+[1.127s] Installing node_robot_controller script to /home/alfonso/coppelia_vision_control_ws/src/install/robot_controller_pkg/lib/robot_controller_pkg
+[1.128s] writing list of installed files to '/home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/install.log'
+[1.161s] Invoked command in '/home/alfonso/coppelia_vision_control_ws/src/robot_controller_pkg' returned '0': PYTHONPATH=/home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alfonso/coppelia_vision_control_ws/src/install/robot_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robot_controller_pkg build --build-base /home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/build install --record /home/alfonso/coppelia_vision_control_ws/src/build/robot_controller_pkg/install.log --single-version-externally-managed install_data

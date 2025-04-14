@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: coppelia-bridge-pkg
+Version: 0.0.0
+Summary: Nodo puente que transmite imágenes desde CoppeliaSim a ROS 2
+Home-page: UNKNOWN
+Maintainer: alfonso
+Maintainer-email: A00838034@tec.mx
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

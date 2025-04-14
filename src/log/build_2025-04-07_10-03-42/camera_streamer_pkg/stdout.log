@@ -1,0 +1,32 @@
+running egg_info
+creating ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info
+writing ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/entry_points.txt
+writing requirements to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/requires.txt
+writing top-level names to ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/top_level.txt
+writing manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/camera_streamer_pkg/camera_streamer_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build
+creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib
+creating /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg
+copying camera_streamer_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg
+running install
+running install_lib
+creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg
+copying /home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/build/lib/camera_streamer_pkg/__init__.py -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg
+byte-compiling /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index
+creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index
+creating /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index/packages
+copying resource/camera_streamer_pkg -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/share/camera_streamer_pkg
+running install_egg_info
+Copying ../build/camera_streamer_pkg/camera_streamer_pkg.egg-info to /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/python3.10/site-packages/camera_streamer_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing node_camera_publisher script to /home/alfonso/coppelia_vision_control_ws/src/install/camera_streamer_pkg/lib/camera_streamer_pkg
+writing list of installed files to '/home/alfonso/coppelia_vision_control_ws/src/build/camera_streamer_pkg/install.log'

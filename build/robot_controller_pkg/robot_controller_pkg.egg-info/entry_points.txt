@@ -1,0 +1,6 @@
+[console_scripts]
+node_move_sphere = robot_controller_pkg.node_move_sphere:main
+node_robot_controller = robot_controller_pkg.node_robot_controller:main
+node_trajectory_controller = robot_controller_pkg.node_trajectory_controller:main
+node_visual_servoing_controller = robot_controller_pkg.node_visual_servoing_controller:main
+
