@@ -143,6 +143,7 @@ A continuación, se presentan algunas capturas de pantalla y una animación de l
 
 > 📽️ *La animación muestra cómo el robot Pioneer P3DX sigue en tiempo real una esfera naranja que se mueve en trayectoria senoidal, utilizando visión artificial y un controlador PID dentro de un entorno de simulación con CoppeliaSim.*
 
+---
 
 ## 👤 Autor
 
