@@ -48,7 +48,7 @@ Este nodo:
 
 ---
 
-## 🧮 Nodo de Seguimiento Visual y PID (`node_visual_servoing_controller.py`)
+##  Nodo de Seguimiento Visual y PID (`node_visual_servoing_controller.py`)
 
 Este nodo:
 
