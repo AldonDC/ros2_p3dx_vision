@@ -101,12 +101,23 @@ ros2 launch camera_streamer_pkg coppelia_vision_launch.py
 
 ---
 
-## 🎥 Demostración
 
-📹 **Video demostrativo del proyecto**  
-👉 Ver en YouTube: *(Reemplaza este enlace con tu video real)*
+## 🖼️ Imágenes de la Simulación
 
----
+A continuación, se presentan algunas capturas de pantalla y animaciones de la simulación corriendo en CoppeliaSim con el robot Pioneer P3DX:
+
+### 🧠 Escena en CoppeliaSim
+
+<img src="media/coppelia_scene.png" alt="Escena CoppeliaSim" width="600"/>
+
+### 🤖 Robot siguiendo la esfera
+
+<img src="media/following_orange_sphere.png" alt="Seguimiento visual" width="600"/>
+
+### 🎞️ Animación de la simulación
+
+![Simulación en ejecución](media/SIMULACION_CERON1.gif)
+
 
 ## 👤 Autor
 
