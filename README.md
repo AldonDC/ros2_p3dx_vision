@@ -1,5 +1,10 @@
 # ros2_p3dx_vision
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 **ROS 2 + CoppeliaSim:** Seguimiento visual en tiempo real con VisionSensor y control de robot móvil Pioneer P3DX usando un controlador PID.
 
 ---
