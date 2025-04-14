@@ -113,13 +113,15 @@ A continuación, se presentan algunas capturas de pantalla y animaciones de la s
 
 ### 🧠 Escena en CoppeliaSim
 
-<img src="![image](https://github.com/user-attachments/assets/94c3249f-bedc-45de-b752-affae1a7dac9)
-" alt="Escena CoppeliaSim" width="600"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/94c3249f-bedc-45de-b752-affae1a7dac9" alt="Escena CoppeliaSim" width="600"/>
+</div>
 
 ### 🤖 Robot siguiendo la esfera
 
-<img src="![image](https://github.com/user-attachments/assets/eebf6069-c7fc-4336-9625-810bbf1de507)
-" alt="Seguimiento visual" width="600"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eebf6069-c7fc-4336-9625-810bbf1de507" alt="Seguimiento visual" width="600"/>
+</div>
 
 
 ### 🎞️ Animación de la Simulación
