@@ -39,9 +39,7 @@ node_robot_controller         → Controla el robot vía /cmd_vel
         │
 node_move_sphere              → Mueve la esfera con trayectoria senoidal
 
-
-
----
+----
 
 ## 📦 Paquetes Utilizados
 
