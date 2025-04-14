@@ -24,15 +24,29 @@ Este proyecto fue desarrollado como parte de una actividad en el curso de Robót
 
 ## 🧩 Arquitectura del Sistema
 
-
+```plaintext
+CoppeliaSim (Pioneer P3DX + VisionSensor)
+        │
+        ▼
+node_camera_publisher         → Publica imágenes ROS 2
+        │
+        ▼
+node_visual_servoing_controller → Procesa imagen y genera comandos Twist
+        │
+        ▼
+node_robot_controller         → Controla el robot vía /cmd_vel
+        ▲
+        │
+node_move_sphere              → Mueve la esfera con trayectoria senoidal
+```
 
 ---
 
 ## 📦 Paquetes Utilizados
 
-- **camera_streamer_pkg**: Nodo que publica las imágenes desde CoppeliaSim.
-- **coppelia_bridge_pkg**: Conexión ZMQ con CoppeliaSim.
-- **robot_controller_pkg**: Incluye el nodo de seguimiento visual, control PID y movimiento de la esfera.
+- `camera_streamer_pkg`: Nodo que publica las imágenes desde CoppeliaSim.
+- `coppelia_bridge_pkg`: Conexión ZMQ con CoppeliaSim.
+- `robot_controller_pkg`: Incluye el nodo de seguimiento visual, control PID y movimiento de la esfera.
 
 ---
 
@@ -48,7 +62,7 @@ Este nodo:
 
 ---
 
-##  Nodo de Seguimiento Visual y PID (`node_visual_servoing_controller.py`)
+## 🧮 Nodo de Seguimiento Visual y PID (`node_visual_servoing_controller.py`)
 
 Este nodo:
 
@@ -77,3 +91,26 @@ Este nodo:
 
 ```bash
 source install/setup.bash
+```
+
+3. Ejecuta el archivo `launch.py` que integra todos los nodos:
+
+```bash
+ros2 launch camera_streamer_pkg coppelia_vision_launch.py
+```
+
+---
+
+## 🎥 Demostración
+
+📹 **Video demostrativo del proyecto**  
+👉 Ver en YouTube: *(Reemplaza este enlace con tu video real)*
+
+---
+
+## 👤 Autor
+
+**Alfonso Solís Díaz**  
+Estudiante de Ingeniería en Robótica y Sistemas Digitales  
+Tecnológico de Monterrey – Campus Monterrey  
+_Abril 2025_
