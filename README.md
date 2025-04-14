@@ -109,7 +109,9 @@ ros2 launch camera_streamer_pkg coppelia_vision_launch.py
 
 ## 🖼️ Imágenes de la Simulación
 
-A continuación, se presentan algunas capturas de pantalla y animaciones de la simulación corriendo en CoppeliaSim con el robot Pioneer P3DX:
+A continuación, se presentan algunas capturas de pantalla y una animación de la simulación en **CoppeliaSim**, donde el robot Pioneer P3DX realiza el seguimiento visual de una esfera naranja:
+
+---
 
 ### 🧠 Escena en CoppeliaSim
 
@@ -117,20 +119,29 @@ A continuación, se presentan algunas capturas de pantalla y animaciones de la s
   <img src="https://github.com/user-attachments/assets/94c3249f-bedc-45de-b752-affae1a7dac9" alt="Escena CoppeliaSim" width="600"/>
 </div>
 
+---
+
 ### 🤖 Robot siguiendo la esfera
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eebf6069-c7fc-4336-9625-810bbf1de507" alt="Seguimiento visual" width="600"/>
+  <img src="https://github.com/user-attachments/assets/eebf6069-c7fc-4336-9625-810bbf1de507" alt="Seguimiento visual 1" width="600"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/31c35db2-9ce9-4c06-8c0b-b8b4f2d7076f" alt="Seguimiento visual 2" width="600"/>
 </div>
 
+---
 
 ### 🎞️ Animación de la Simulación
 
-Haz clic en la imagen para ver la simulación completa en acción 🎬
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LFesywvOHP8" target="_blank">
+    <img src="https://img.youtube.com/vi/LFesywvOHP8/hqdefault.jpg" alt="Simulación Visual Pioneer P3DX - YouTube" width="600"/>
+  </a>
+</div>
 
-[![Simulación Visual Pioneer P3DX - YouTube](https://img.youtube.com/vi/LFesywvOHP8/hqdefault.jpg)](https://www.youtube.com/watch?v=LFesywvOHP8)
+<p align="center"><i>Haz clic en la imagen para ver el video completo en YouTube.</i></p>
 
-> 📽️ *La animación muestra cómo el robot Pioneer P3DX sigue en tiempo real una esfera naranja que se mueve en trayectoria senoidal, utilizando visión artificial y control PID en un entorno simulado con CoppeliaSim.*
+> 📽️ *La animación muestra cómo el robot Pioneer P3DX sigue en tiempo real una esfera naranja que se mueve en trayectoria senoidal, utilizando visión artificial y un controlador PID dentro de un entorno de simulación con CoppeliaSim.*
 
 
 ## 👤 Autor
